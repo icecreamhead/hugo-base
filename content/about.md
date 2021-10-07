@@ -6,4 +6,4 @@ author = "Hugo Authors"
 draft = false
 +++
 
-Josh Cooke is a full-stack software engineer and is currently the Data Engineering Practice Lead at [Starling Bank](https://starlingbank.com). 
+Josh Cooke is a full-stack software engineer and is currently the Data Engineering Practice Lead at [Starling Bank](https://starlingbank.com). He's a proud Yorkshireman and Leeds United supporter but now resides in Hertfordshire.
